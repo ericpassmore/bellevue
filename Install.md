@@ -32,3 +32,5 @@ Open a new terminal and test
 The programing language 
 
         curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+
+Add '$HOME/.cargo/bin' to your path. See this website for full instructions. https://www.rust-lang.org/tools/install
