@@ -28,3 +28,7 @@ Open a new terminal and test
     bin/kafka-console-consumer.sh --topic quickstart-events --from-beginning --bootstrap-server localhost:9092
  
  
+## Rust
+The programing language 
+
+        curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
